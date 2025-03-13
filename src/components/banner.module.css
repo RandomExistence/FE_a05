@@ -1,0 +1,24 @@
+.banner {
+  display: block;
+  padding: 5px;
+  margin: 0px;
+  width: 100vw;
+  height: 70vh;
+  position: relative;
+}
+
+.bannerText {
+  position: relative;
+  top: 100px;
+  z-index: 20;
+  text-align: center;
+}
+
+.bannerFlavor {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  position: relative;
+  top: 130px;
+  z-index: 20;
+  text-align: center;
+}
